@@ -20,6 +20,6 @@ If you found this code useful, please cite the following paper:
     title     = {Advancing Text-Driven Chest X-Ray Generation with Policy-Based Reinforcement Learning},
     booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
     year      = {2024},
-    organization={Springer}
+    organization = {Springer}
 }
 ```
