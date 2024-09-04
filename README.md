@@ -1,5 +1,5 @@
 # Advancing Text-Driven Chest X-Ray Generation with Policy-Based Reinforcement Learning
-#### Early Accepted @ MICCAI 2024 
+#### Spotlight @ MICCAI 2024 
 We will release the code soon. Stay tuned!
 
 [[Project Page]](https://micv-yonsei.github.io/cxrl2024/) [[arXiv]](https://arxiv.org/pdf/2403.06516)  
